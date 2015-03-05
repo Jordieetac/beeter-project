@@ -1,4 +1,4 @@
-package edu.upc.eetac.dsa.ajarac.beeter.api;
+package edu.upc.eetac.dsa.jordieetac.beeter.api;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
